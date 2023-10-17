@@ -1,8 +1,8 @@
 # Variables
 x = 5
 y = "Prashant"
-z = [1, 2, 3]
-a = {y: "apple", x: "ball"}
+z = [1, 2, 3]  # list / array
+a = {y: "apple", x: "ball"}  # disctionary / object
 
 m, n, o = 100, 200, 300
 r = s = t = 100
